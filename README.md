@@ -45,11 +45,11 @@ To view playlist page
 
 Home Page Screenshot:-
 
-![App Screenshot]()
+![App Screenshot](https://github.com/PST09/spotify_clone/blob/main/Icons/Screenshots/main.png)
 
 PlayList Page Screenshot:- 
 
-![App Screenshot]()
+![App Screenshot](https://github.com/PST09/spotify_clone/blob/main/Icons/Screenshots/player.png)
 
 
 
