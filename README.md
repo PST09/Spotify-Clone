@@ -6,7 +6,7 @@ A music plateform Spotify Clone Webpage created by using HTML and CSS for the su
 
 ## Authors
 
-- [@Ashish Kumar](https://www.github.com/AshishRock9394)
+- [@Priyanka Singh Tomer](https://www.github.com/PST09)
 
 
 ## Environment Variables
@@ -22,7 +22,7 @@ To run this project, you will need to add the following environment.
 Clone the project
 
 ```bash
-  git clone https://github.com/ashishRock9394/Spotify_Clone
+  git clone https://github.com/PST09/spotify_clone
 ```
 
 Go to your project directory
@@ -45,11 +45,11 @@ To view playlist page
 
 Home Page Screenshot:-
 
-![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/main.png)
+![App Screenshot]()
 
 PlayList Page Screenshot:- 
 
-![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/player.png)
+![App Screenshot]()
 
 
 
@@ -59,4 +59,4 @@ PlayList Page Screenshot:-
 
 ## Support
 
-For support, email at ashishkumar394@gmail.com
+For support, email at priyanka430529@gmail.com
